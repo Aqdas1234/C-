@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+
+  <PropertyGroup>
+  <StartupObject>std.Variables</StartupObject>
+  </PropertyGroup>
+
 </Project>

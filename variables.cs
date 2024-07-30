@@ -1,7 +1,7 @@
 using System;
 
 namespace std{
-    class variavbl{
+    class Variables{
         static void Main(string[] ags)
         {
             //  c# is typed language means we need specify 
